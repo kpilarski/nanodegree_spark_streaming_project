@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Edward.Gonzalez@t...| 28.0|Edward.Gonzalez@t...|     1942|
+|Edward.Gonzalez@t...| 28.0|Edward.Gonzalez@t...|     1942|
+|Edward.Gonzalez@t...| -1.5|Edward.Gonzalez@t...|     1942|
+|Edward.Gonzalez@t...|-25.0|Edward.Gonzalez@t...|     1942|
+|Edward.Gonzalez@t...| 11.5|Edward.Gonzalez@t...|     1942|
+|Edward.Gonzalez@t...|-10.0|Edward.Gonzalez@t...|     1942|
+|Neeraj.Hansen@tes...| -3.0|Neeraj.Hansen@tes...|     1960|
+|Neeraj.Hansen@tes...| -3.5|Neeraj.Hansen@tes...|     1960|
+|Neeraj.Hansen@tes...| -2.5|Neeraj.Hansen@tes...|     1960|
+|Neeraj.Hansen@tes...| -2.5|Neeraj.Hansen@tes...|     1960|
+|Neeraj.Hansen@tes...| -3.5|Neeraj.Hansen@tes...|     1960|
+|Neeraj.Hansen@tes...| -4.0|Neeraj.Hansen@tes...|     1960|
+|Angie.Howard@test...| -3.5|Angie.Howard@test...|     1952|
+|Angie.Howard@test...| -1.5|Angie.Howard@test...|     1952|
+|Angie.Howard@test...| -1.5|Angie.Howard@test...|     1952|
+|Angie.Howard@test...| -3.0|Angie.Howard@test...|     1952|
+|Angie.Howard@test...| -2.5|Angie.Howard@test...|     1952|
+|Angie.Howard@test...| -2.0|Angie.Howard@test...|     1952|
+|Edward.Huey@test.com| -2.5|Edward.Huey@test.com|     1951|
+|Edward.Huey@test.com| -3.5|Edward.Huey@test.com|     1951|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
